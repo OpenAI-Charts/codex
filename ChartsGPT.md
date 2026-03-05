@@ -8,7 +8,7 @@ Development of ChartsGPT began in June 2024, followed by an extended research an
 
 
 ## ChartsGPT Installation on Windows
-The installer script is the recommended method for installing an **XRPL Node**. It handles Node detection, installation, and onboarding in one step.
+_The Powershell command is the recommended way to install **ChartsGPT**. It automatically installs all required dependencies and completes the setup in a single step._
 
 ### Step 1: Open Powershell.
 Press `Win + R`, type `Powershell`, and press **Enter**.

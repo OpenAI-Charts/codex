@@ -49,3 +49,19 @@ The system processes crypto and global market data to generate structured, proba
   </div>
 
 </section>
+
+<h2>Technology</h2>
+
+<table>
+<tr>
+<td align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/OpenAI_Logo.svg" width="140"><br>
+<b>OpenAI</b>
+</td>
+
+<td align="center">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/TradingView_Logo.svg" width="160"><br>
+<b>TradingView</b>
+</td>
+</tr>
+</table>

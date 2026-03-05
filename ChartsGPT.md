@@ -6,6 +6,20 @@ The system processes crypto and global market data to generate structured, proba
 
 Development of ChartsGPT began in June 2024, followed by an extended research and beta testing phase. As of March 1, 2026, the platform has entered Early Access, allowing users to access the system ahead of the public release after the completion of its initial beta testing program.
 
+
+## ChartsGPT Installation on Windows
+The installer script is the recommended method for installing an **XRPL Node**. It handles Node detection, installation, and onboarding in one step.
+
+### Step 1: Open Powershell.
+Press `Win + R`, type `Powershell`, and press **Enter**.
+
+### Step 2: Execute the following command:
+```cmd
+powershell -c
+`````
+
+_After installation, a shortcut will be created on your desktop and in the Start menu._ <br>
+
 <h2>What It Does</h2>
 
 <table>
@@ -69,20 +83,6 @@ Macro, technical, and on-chain signals analyzed in real time.
 </td>
 </tr>
 </table>
-
-
-## ChartsGPT Installation on Windows
-The installer script is the recommended method for installing an **XRPL Node**. It handles Node detection, installation, and onboarding in one step.
-
-### Step 1: Open Powershell.
-Press `Win + R`, type `Powershell`, and press **Enter**.
-
-### Step 2: Execute the following command:
-```cmd
-powershell -c
-`````
-
-_After installation, a shortcut will be created on your desktop and in the Start menu._ <br>
 
 
 <h2>Technology</h2>

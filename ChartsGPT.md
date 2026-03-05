@@ -69,6 +69,22 @@ Macro, technical, and on-chain signals analyzed in real time.
 </td>
 </tr>
 </table>
+
+
+## ChartsGPT Installation on Windows
+The installer script is the recommended method for installing an **XRPL Node**. It handles Node detection, installation, and onboarding in one step.
+
+### Step 1: Open Powershell.
+Press `Win + R`, type `Powershell`, and press **Enter**.
+
+### Step 2: Execute the following command:
+```cmd
+powershell -c
+`````
+
+_After installation, a shortcut will be created on your desktop and in the Start menu._ <br>
+
+
 <h2>Technology</h2>
 
 <table>

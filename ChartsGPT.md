@@ -37,7 +37,6 @@ The world’s first AI trading intelligence platform.
 Co-developed with OpenAI and TradingView.
 
 </td>
-
 <td width="25%">
 
 ### Private by Default

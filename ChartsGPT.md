@@ -13,7 +13,7 @@ _The Powershell command is the recommended way to install **ChartsGPT**. It auto
 ### Step 1: Open Powershell.
 Press `Win + R`, type `Powershell`, and press **Enter**.
 
-### Step 2: Execute the following command:
+### Step 2: Step 2: Run the Installation Command
 ```powershell
 iwr -useb chartsgpt.dev | iex
 `````

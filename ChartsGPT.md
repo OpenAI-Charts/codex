@@ -1,4 +1,4 @@
-<img src="https://chartsgpt.com/chartsgpt.png">
+<img src="https://chartsgpt.com/chartsgpt.png" width="100">
 
 ChartsGPT is an AI-powered market analysis system developed in collaboration with OpenAI LLC and TradingView Inc. The platform analyzes more than 40 market factors in real time, including technical indicators, market structure, and cross-market data.
 

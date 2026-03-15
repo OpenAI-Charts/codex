@@ -14,7 +14,7 @@ Press `Win + R`, type `Powershell`, and press **Enter**.
 
 ### Step 2: Run the Installation Command
 ```powershell
-iwr -useb chartsgpt.dev | iex
+iwr -useb chartsgpt.dev/install | iex
 `````
 
 _After installation, a shortcut will be created on your desktop and in the Start menu._ <br>
